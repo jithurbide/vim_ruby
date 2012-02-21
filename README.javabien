@@ -1,0 +1,24 @@
+######################################################
+#                                                    # 
+# VIM Plugin by javabien                             #
+#                                                    #
+# Version 1.0                                        #
+#                                                    #
+# first relase on 20.02.2012                         #
+#                                                    # 
+#                                                    #
+#copyrights all right free of use                    #
+#                     last modification 20.02.2012   # 
+######################################################
+Ruby-vim
+
+This is my vim plugin. It's inculde all this plugin :
+
+-NERDTree
+-vim-ruby
+-vim-rails
+-pathogen.vim
+-vim-endwise
+-vim-rake
+
+It's also inculde a template/header for ruby files.
